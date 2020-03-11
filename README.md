@@ -2,6 +2,8 @@
 
 Swift framework to interact with Python.
 
+https://www.tensorflow.org/swift/tutorials/python_interoperability
+
 ## Requirements
 
 `PythonKit` requires [**Swift 5**](https://swift.org/download/) or higher and has been tested on macOS, Linux and Windows.
